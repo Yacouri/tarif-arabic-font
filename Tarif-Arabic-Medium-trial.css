@@ -1,10 +1,10 @@
 @font-face {
     font-family: 'TarifArabicMedium';
-    src: url('https://raw.githubusercontent.com/yacouri/tarif-arabic-font/master/Tarif-Arabic-Medium-trial.ttf') format('truetype');
+    src: url('https://raw.githubusercontent.com/yacouri/tarif-arabic-font/master/Tarif-Arabic-Medium-trial.ttf');
     font-weight: normal;
     font-style: normal;
 }
   
 body {
-    font-family: 'TarifArabicMedium', sans-serif;
+    font-family: 'TarifArabicMedium', sans-serif !important;
 }
